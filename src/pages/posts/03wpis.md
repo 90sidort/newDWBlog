@@ -4,6 +4,9 @@ date: '2020-06-26'
 author: SkrytyZolw
 path: '/03wpis'
 image: '../../images/licowki.jpg'
+tags:
+- colgate
+- nici
 ---
 Licówki to uzupełnienie protetyczne pokrywające wargową lub policzkową powierzchnię naturalnych zębów. W ostatnim czasie stosuje się również „nakłado-licówki”, pokrywające powierzchnię żującą.
 

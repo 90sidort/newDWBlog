@@ -4,6 +4,9 @@ date: '2020-06-24'
 author: SkrytyZolw
 path: '/01wpis'
 image: '../../images/licowki.jpg'
+tags:
+- licowki
+- dental
 ---
 Licówki to uzupełnienie protetyczne pokrywające wargową lub policzkową powierzchnię naturalnych zębów. W ostatnim czasie stosuje się również „nakłado-licówki”, pokrywające powierzchnię żującą.
 
