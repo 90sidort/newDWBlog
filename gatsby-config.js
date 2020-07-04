@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Skryty_Zolw- najlepsza zębowa wróżka`,
+    title: `SkrytyZolw- najlepsza zębowa wróżka`,
     description: `p0laku, nawet Ty możesz nauczyć się myć zęby!`,
     author: `90sidort`,
   },
@@ -8,11 +8,19 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-catch-links`,
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/pages`,
       },
     },
     `gatsby-transformer-sharp`,
