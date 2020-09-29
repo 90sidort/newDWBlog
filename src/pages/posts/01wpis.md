@@ -1,13 +1,13 @@
 ---
-title: 'Licówki'
-date: '2020-06-24'
+title: "Licówki"
+date: "2020-06-24"
 author: SkrytyZolw
-path: '/01wpis'
-image: '../../images/licowki.jpg'
+image: "../../images/licowki.jpg"
 tags:
-- licowki
-- dental
+  - licowki
+  - dental
 ---
+
 Licówki to uzupełnienie protetyczne pokrywające wargową lub policzkową powierzchnię naturalnych zębów. W ostatnim czasie stosuje się również „nakłado-licówki”, pokrywające powierzchnię żującą.
 
 Wskazania do stosowania licówek:
@@ -34,6 +34,7 @@ Nie we wszystkich przypadkach licówki mogą być zastosowane, wśród przeciwws
 Obecnie licówki wykonuje się z ceramiki lub kompozytu, tymczasowe wykonuje się również z akrylu.
 
 Ceramika:
+
 - idealna estetyka,
 - bardzo trwałe (wg Friedmann’a: 93% założonych licówek funkcjonowało przez 15 lat)
 - jest biokompatybilna - dobrze tolerowana przez dziąsła,
@@ -44,6 +45,7 @@ Ceramika:
 - cena jest różna w zależności od rodzaju wykorzystywanego materiału i metody wykonania pracy, waha się od 1200zł do 2000zł
 
 Kompozyt:
+
 - bardzo dobra estetyka,
 - jest elastyczny - ma większą wytrzymałość na zginanie, naprężenia, napięcia (wskazany u osób z bruksizmem)
 - są mniej inwazyjne - wymagają mniej szlifowania zębów albo w ogóle nie wymagają szlifowania (licówki non-prep), z tego względu polecane są u osób młodych
