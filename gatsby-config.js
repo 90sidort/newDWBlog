@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `SkrytyZolw- najlepsza zębowa wróżka`,
-    description: `p0laku, nawet Ty możesz nauczyć się myć zęby!`,
+    title: `Dasz wiarę?`,
+    description: `Wykopowa seria religioznawczo- historyczna`,
     author: `90sidort`,
   },
   plugins: [
