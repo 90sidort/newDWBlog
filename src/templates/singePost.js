@@ -21,7 +21,7 @@ const SingePost = ({ data }) => {
       notes={notesData}
       tags={tagsList}
     >
-      <SEO>{post.title}</SEO>
+      <SEO title={post.title} />
       <Img
         className="card-image-top"
         fluid={post.image.childImageSharp.fluid}

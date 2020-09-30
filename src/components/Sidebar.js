@@ -1,7 +1,5 @@
-import { Link, graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 import React from "react"
-import { Card, CardTitle, CardBody } from "reactstrap"
-import Img from "gatsby-image"
 
 import Sources from "./Sources"
 import Notes from "./Notes"
