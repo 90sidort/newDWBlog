@@ -1,7 +1,7 @@
 ---
 title: "Pasta"
 date: "2020-06-25"
-author: SkrytyZolw
+author: andrzej
 image: "../../images/licowki.jpg"
 tags:
   - pasty

@@ -1,7 +1,7 @@
 ---
 title: "Płyn"
 date: "2020-06-27"
-author: SkrytyZolw
+author: luvencedus
 image: "../../images/licowki.jpg"
 tags:
   - pasty

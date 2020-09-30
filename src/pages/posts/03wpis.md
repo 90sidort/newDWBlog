@@ -1,7 +1,7 @@
 ---
 title: "Nici"
 date: "2020-06-26"
-author: SkrytyZolw
+author: luvencedus
 image: "../../images/licowki.jpg"
 tags:
   - colgate

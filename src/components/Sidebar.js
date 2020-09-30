@@ -1,15 +1,48 @@
 import { Link, graphql, useStaticQuery } from "gatsby"
 import React from "react"
-import { Card, CardTitle, CardBody, Form, FormGroup, Input } from "reactstrap"
+import {
+  Card,
+  CardTitle,
+  CardBody,
+  Form,
+  FormGroup,
+  Input,
+  CardText,
+} from "reactstrap"
 import Img from "gatsby-image"
 
-const Sidebar = () => {
+const Sidebar = ({ author, image }) => {
   const data = useStaticQuery(sidebarQuery)
   const randomNum = Math.floor(
     Math.random() * (data.allMarkdownRemark.edges.length - 0) + 0
   )
   return (
     <div>
+      {author && (
+        <Card>
+          <Img className="card-image-top" fluid={image} />
+          <CardBody>
+            <CardTitle className="text-center text-uppercase mb-3">
+              {author.name}
+            </CardTitle>
+            <CardText>{author.bio}</CardText>
+            <div className="author-social-links text-center">
+              <ul>
+                <li>
+                  <a
+                    href={author.wykop}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="facebook"
+                  >
+                    Profil na wykopie
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </CardBody>
+        </Card>
+      )}
       <Card>
         <CardBody className="text-center">
           <CardTitle className="text-uppercase mb-3">Subskrypcja</CardTitle>

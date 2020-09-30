@@ -4,8 +4,16 @@ import { useStaticQuery, graphql } from "gatsby"
 import "../styles/index.scss"
 import Header from "./Header"
 import Footer from "./Footer"
+import { Row, Col } from "reactstrap"
+import Sidebar from "./Sidebar"
 
-const Layout = ({ children }) => {
+const Layout = ({
+  children,
+  pageTitle,
+  pageSubtitle,
+  imageAuthorFluid,
+  postAuthor,
+}) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -20,7 +28,14 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div className="container" id="content">
-        <main>{children}</main>
+        <h1 style={{ fontWeight: "bold" }}>{pageTitle}</h1>
+        <h5>{pageSubtitle}</h5>
+        <Row>
+          <Col md="8">{children}</Col>
+          <Col md="4">
+            <Sidebar author={postAuthor} image={imageAuthorFluid} />
+          </Col>
+        </Row>
         <Footer />
       </div>
     </>
