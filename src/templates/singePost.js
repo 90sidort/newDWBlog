@@ -10,11 +10,15 @@ import authors from "../util/authors"
 const SingePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
   const author = authors.find(x => x.name === post.author)
+  const sourceData = data.markdownRemark.frontmatter.sources
+  const notesData = data.markdownRemark.frontmatter.notes
   return (
     <Layout
       pageTitle={post.title}
       postAuthor={author}
       imageAuthorFluid={data.file.childImageSharp.fluid}
+      sources={sourceData}
+      notes={notesData}
     >
       <SEO>{post.title}</SEO>
       <Img
@@ -26,16 +30,16 @@ const SingePost = ({ data }) => {
           <span className="text-info">{post.date}</span> by{" "}
           <span className="text-info">{post.author}</span>
         </CardSubtitle>
-        <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
         <ul className="post-tags">
           {post.tags.map(tag => (
             <li key={tag}>
               <Link to={`/tag/${slugify(tag)}`}>
-                <Badge color="secondary">{tag}</Badge>
+                <Badge color="dark">{tag}</Badge>
               </Link>
             </li>
           ))}
         </ul>
+        <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
       </CardBody>
     </Layout>
   )
@@ -49,6 +53,8 @@ export const postQuery = graphql`
       frontmatter {
         title
         author
+        sources
+        notes
         date(formatString: "MMM Do YYYY")
         tags
         image {

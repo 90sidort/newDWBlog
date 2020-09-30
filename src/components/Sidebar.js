@@ -10,8 +10,11 @@ import {
   CardText,
 } from "reactstrap"
 import Img from "gatsby-image"
+import Sources from "./Sources"
+import Notes from "./Notes"
 
-const Sidebar = ({ author, image }) => {
+const Sidebar = ({ author, image, sources, notes }) => {
+  console.log(notes)
   const data = useStaticQuery(sidebarQuery)
   const randomNum = Math.floor(
     Math.random() * (data.allMarkdownRemark.edges.length - 0) + 0
@@ -43,6 +46,8 @@ const Sidebar = ({ author, image }) => {
           </CardBody>
         </Card>
       )}
+      {notes && <Notes notes={notes} />}
+      {sources && <Sources sources={sources} />}
       <Card>
         <CardBody className="text-center">
           <CardTitle className="text-uppercase mb-3">Subskrypcja</CardTitle>

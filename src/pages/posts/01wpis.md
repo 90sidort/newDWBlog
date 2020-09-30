@@ -6,6 +6,13 @@ image: "../../images/licowki.jpg"
 tags:
   - licowki
   - dental
+sources:
+  - Kuc
+  - Kucownik | https://www.google.com/
+notes:
+  - Ala ma kota
+  - Kot ma ale
+  - moj stary
 ---
 
 Licówki to uzupełnienie protetyczne pokrywające wargową lub policzkową powierzchnię naturalnych zębów. W ostatnim czasie stosuje się również „nakłado-licówki”, pokrywające powierzchnię żującą.
