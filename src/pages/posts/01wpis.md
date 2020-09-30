@@ -2,7 +2,7 @@
 title: "Licówki"
 date: "2020-06-24"
 author: andrzej
-image: "../../images/licowki.jpg"
+image: "../../images/andrzej.png"
 tags:
   - licowki
   - dental

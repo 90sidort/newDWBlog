@@ -5,12 +5,13 @@ import { slugify } from "../util/utilityFunctions"
 import Layout from "../components/Layout"
 import SEO from "../components/SEO"
 
-const tagsPage = ({ pageContext: { tags, tagPostCounts } }) => {
+const tagsPage = ({ pageContext: { tags } }) => {
   return (
     <Layout pageTitle="Tagi">
       <SEO title="Tagi" />
       {tags.map(tag => (
         <Button
+          key={slugify(tag)}
           color="dark"
           href={`/tags/${slugify(tag)}`}
           style={{ margin: "10px 10px 0px 10px" }}

@@ -2,7 +2,7 @@
 title: "Nici"
 date: "2020-06-26"
 author: luvencedus
-image: "../../images/licowki.jpg"
+image: "../../images/luvencedus.jpg"
 tags:
   - colgate
   - nici

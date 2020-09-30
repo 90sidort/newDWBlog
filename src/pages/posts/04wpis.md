@@ -2,7 +2,7 @@
 title: "Płyn"
 date: "2020-06-27"
 author: luvencedus
-image: "../../images/licowki.jpg"
+image: "../../images/luvencedus.jpg"
 tags:
   - pasty
   - licowki
