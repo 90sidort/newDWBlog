@@ -15,6 +15,7 @@ const Layout = ({
   postAuthor,
   sources,
   notes,
+  tags,
 }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -40,6 +41,7 @@ const Layout = ({
               image={imageAuthorFluid}
               sources={sources}
               notes={notes}
+              tags={tags}
             />
           </Col>
         </Row>

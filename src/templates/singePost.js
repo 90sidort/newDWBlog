@@ -1,10 +1,9 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import SEO from "../components/SEO"
-import { Badge, CardBody, CardSubtitle } from "reactstrap"
+import { CardBody, CardSubtitle } from "reactstrap"
 import Img from "gatsby-image"
-import { slugify } from "../util/utilityFunctions"
 import authors from "../util/authors"
 
 const SingePost = ({ data }) => {
@@ -12,6 +11,7 @@ const SingePost = ({ data }) => {
   const author = authors.find(x => x.name === post.author)
   const sourceData = data.markdownRemark.frontmatter.sources
   const notesData = data.markdownRemark.frontmatter.notes
+  const tagsList = data.markdownRemark.frontmatter.tags
   return (
     <Layout
       pageTitle={post.title}
@@ -19,6 +19,7 @@ const SingePost = ({ data }) => {
       imageAuthorFluid={data.file.childImageSharp.fluid}
       sources={sourceData}
       notes={notesData}
+      tags={tagsList}
     >
       <SEO>{post.title}</SEO>
       <Img
@@ -30,15 +31,6 @@ const SingePost = ({ data }) => {
           <span className="text-info">{post.date}</span> by{" "}
           <span className="text-info">{post.author}</span>
         </CardSubtitle>
-        <ul className="post-tags">
-          {post.tags.map(tag => (
-            <li key={tag}>
-              <Link to={`/tag/${slugify(tag)}`}>
-                <Badge color="dark">{tag}</Badge>
-              </Link>
-            </li>
-          ))}
-        </ul>
         <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
       </CardBody>
     </Layout>
