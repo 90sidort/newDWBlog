@@ -1,27 +1,31 @@
 import React from "react"
-import Layout from "../components/Layout"
 import { graphql } from "gatsby"
-import SEO from "../components/SEO"
 import { CardBody, CardSubtitle } from "reactstrap"
 import Img from "gatsby-image"
-import authors from "../util/authors"
 
-const SingePost = ({ data }) => {
+import authors from "../util/authors"
+import SEO from "../components/SEO"
+import Layout from "../components/Layout"
+
+const SingePost = ({ data, pageContext }) => {
   const post = data.markdownRemark.frontmatter
   const author = authors.find(x => x.name === post.author)
   const sourceData = data.markdownRemark.frontmatter.sources
   const notesData = data.markdownRemark.frontmatter.notes
   const tagsList = data.markdownRemark.frontmatter.tags
+  const postUrl = `https://daszwiare.pl/${pageContext.slug}`
+  const postTitle = post.title
   return (
     <Layout
-      pageTitle={post.title}
+      pageTitle={postTitle}
       postAuthor={author}
       imageAuthorFluid={data.file.childImageSharp.fluid}
       sources={sourceData}
       notes={notesData}
       tags={tagsList}
+      url={postUrl}
     >
-      <SEO title={post.title} />
+      <SEO title={postTitle} />
       <Img
         className="card-image-top"
         fluid={post.image.childImageSharp.fluid}

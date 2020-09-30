@@ -7,8 +7,9 @@ import AuthorBio from "./AuthorBio"
 import Subscribe from "./Subscribe"
 import TagsCard from "./TagsCard"
 import PostCard from "./PostCard"
+import Share from "./Share"
 
-const Sidebar = ({ author, image, sources, notes, tags }) => {
+const Sidebar = ({ author, image, sources, notes, tags, url, title }) => {
   const data = useStaticQuery(sidebarQuery)
   const randomNum = Math.floor(
     Math.random() * (data.allMarkdownRemark.edges.length - 0) + 0
@@ -20,6 +21,7 @@ const Sidebar = ({ author, image, sources, notes, tags }) => {
       {tags && <TagsCard tags={tags} />}
       {notes && <Notes notes={notes} />}
       {sources && <Sources sources={sources} />}
+      {tags && <Share url={url} title={title} />}
       {!tags && (
         <div>
           <Subscribe />
