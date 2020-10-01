@@ -10,6 +10,8 @@ import {
   NavLink,
 } from "reactstrap"
 
+import logo from "../images/icon.png"
+
 const Header = props => {
   const [isOpen, setIsOpen] = useState(false)
 
@@ -19,12 +21,24 @@ const Header = props => {
     <div>
       <Navbar fixed="top" light expand="sm">
         <div className="container">
-          <NavbarBrand href="/">Blog</NavbarBrand>
+          <NavbarBrand href="/">
+            <img
+              src={logo}
+              style={{
+                border: "1px solid",
+                borderRadius: "50%",
+                height: "45px",
+                width: "45px",
+              }}
+              alt="andrzej"
+            ></img>
+            &nbsp;Blog
+          </NavbarBrand>
           <NavbarToggler onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/about/">O blogu</NavLink>
+                <NavLink href="/about/">O serii</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="/author">O autorach</NavLink>

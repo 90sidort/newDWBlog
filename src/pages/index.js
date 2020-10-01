@@ -13,7 +13,7 @@ const IndexPage = () => {
       pageTitle="Dasz wiarę?"
       pageSubtitle="Wykopowa seria religioznawcza"
     >
-      <SEO title="Home" />
+      <SEO title="Główna" />
       <StaticQuery
         query={indexQuery}
         render={data => {

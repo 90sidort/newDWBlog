@@ -32,6 +32,7 @@ const Layout = ({
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div className="container" id="content">
+        <br />
         <h1 style={{ fontWeight: "bold" }}>
           {pageTitle}
           {pageTitle.includes("Odcinek") ? "," : ""}

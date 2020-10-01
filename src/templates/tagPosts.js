@@ -7,12 +7,13 @@ const tagPosts = ({ data, pageContext: { tag } }) => {
   const { totalCount } = data.allMarkdownRemark
   const pageHeader = tag
   return (
-    <Layout pageTitle={pageHeader}>
+    <Layout pageTitle={pageHeader} pageSubtitle={`${totalCount} z tym tagiem.`}>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <Post
           key={node.id}
           slug={node.fields.slug}
           title={node.frontmatter.title}
+          subtitle={node.frontmatter.subtitle}
           author={node.frontmatter.author}
           date={node.frontmatter.date}
           body={node.excerpt}
@@ -38,6 +39,7 @@ export const tagQuery = graphql`
             title
             date(formatString: "MM-DD-YYYY")
             author
+            subtitle
             tags
             image {
               childImageSharp {

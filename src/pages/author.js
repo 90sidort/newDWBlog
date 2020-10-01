@@ -35,7 +35,9 @@ const AuthorPage = () => {
               <Card style={{ minHeight: "100%" }}>
                 <CardBody>
                   <CardTitle>{author.name}</CardTitle>
-                  <CardText>{author.bio}</CardText>
+                  <CardText className="indented_paragraph">
+                    {author.bio}
+                  </CardText>
                   <Button
                     className="text-uppercase"
                     color="dark"

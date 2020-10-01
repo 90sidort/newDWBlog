@@ -35,14 +35,21 @@ const SingePost = ({ data, pageContext }) => {
       />
       <CardBody>
         <CardSubtitle>
-          <span className="text-info">{post.date}</span> przez{" "}
+          <span className="text-info">Opublikowany {post.date}</span> przez{" "}
           <span className="text-info">{post.author}</span>
         </CardSubtitle>
         <a href={postOriginal} className="text-info">
           Zobacz na wykopie
         </a>
-        <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
+        <br />
+        <div
+          dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+          className="indented_paragraph"
+        ></div>
       </CardBody>
+      <span onClick={() => window.scrollTo(0, 0)} role="presentation">
+        &uarr; Przewiń na górę
+      </span>
     </Layout>
   )
 }
