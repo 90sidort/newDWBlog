@@ -2,7 +2,7 @@
 title: "Pasta"
 date: "2020-06-25"
 author: andrzej
-image: "../../images/andrzej.png"
+image: "../../images/andrew.jpg"
 tags:
   - pasty
   - nici

@@ -1,9 +1,10 @@
 ---
 title: "Odcinek 63"
 subtitle: "w którym okazuje się, że głupota jest chrześcijańską cnotą i prowadzi do świętości."
+original: "https://www.wykop.pl/wpis/52167155/dasz-wiare-odc-63-w-ktorym-okazuje-sie-ze-glupota-/"
 date: "2020-09-17"
 author: andrzej
-image: "../../images/andrzej.png"
+image: "../../images/andrew.jpg"
 tags:
   - prawoslawie
   - chrzescijanstwo

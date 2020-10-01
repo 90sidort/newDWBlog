@@ -26,6 +26,11 @@ const Post = ({ title, subtitle, author, slug, date, body, fluid, tags }) => {
             <br />
           </Link>
         </CardTitle>
+        <CardSubtitle>
+          <span className="text-info">{date}</span>
+          <span className="text-info">{author}</span>
+        </CardSubtitle>
+        <CardText>{body}</CardText>
         <ul className="post-tags">
           {tags.map(tag => (
             <li key={tag}>
@@ -37,11 +42,6 @@ const Post = ({ title, subtitle, author, slug, date, body, fluid, tags }) => {
             </li>
           ))}
         </ul>
-        <CardSubtitle>
-          <span className="text-info">{date}</span>
-          <span className="text-info">{author}</span>
-        </CardSubtitle>
-        <CardText>{body}</CardText>
         <Link to={`/${slug}`} className="btn btn-outline-dark float-right">
           Czytaj
         </Link>

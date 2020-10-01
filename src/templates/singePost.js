@@ -16,6 +16,7 @@ const SingePost = ({ data, pageContext }) => {
   const postUrl = `http://daszwiare.neuropa.pl/${pageContext.slug}`
   const postTitle = post.title
   const postSubTitle = post.subtitle
+  const postOriginal = post.original
   return (
     <Layout
       pageTitle={postTitle}
@@ -34,9 +35,12 @@ const SingePost = ({ data, pageContext }) => {
       />
       <CardBody>
         <CardSubtitle>
-          <span className="text-info">{post.date}</span> by{" "}
+          <span className="text-info">{post.date}</span> przez{" "}
           <span className="text-info">{post.author}</span>
         </CardSubtitle>
+        <a href={postOriginal} className="text-info">
+          Zobacz na wykopie
+        </a>
         <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
       </CardBody>
     </Layout>
@@ -50,11 +54,12 @@ export const postQuery = graphql`
       html
       frontmatter {
         title
+        original
         subtitle
         author
         sources
         notes
-        date(formatString: "MMM Do YYYY")
+        date(formatString: "MM-DD-YYYY")
         tags
         image {
           childImageSharp {
