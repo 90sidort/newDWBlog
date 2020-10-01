@@ -12,6 +12,7 @@ import Img from "gatsby-image"
 import { slugify } from "../util/utilityFunctions"
 
 const Post = ({ title, author, slug, date, body, fluid, tags }) => {
+  console.log(slug)
   return (
     <Card>
       <Link to={slug}>
@@ -37,7 +38,7 @@ const Post = ({ title, author, slug, date, body, fluid, tags }) => {
             </li>
           ))}
         </ul>
-        <Link to={slug} className="btn btn-outline-dark float-right">
+        <Link to={`/${slug}`} className="btn btn-outline-dark float-right">
           Czytaj
         </Link>
       </CardBody>

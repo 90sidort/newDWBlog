@@ -20,6 +20,7 @@ exports.createPages = ({ actions, graphql }) => {
   const singlePostTemplate = path.resolve("./src/templates/singePost.js")
   const tagsPageTemplate = path.resolve("./src/templates/tagsPage.js")
   const tagPostsTemplate = path.resolve("./src/templates/tagPosts.js")
+  const postListTemplate = path.resolve("./src/templates/postList.js")
 
   return graphql(
     `
@@ -83,6 +84,27 @@ exports.createPages = ({ actions, graphql }) => {
         component: tagPostsTemplate,
         context: {
           tag,
+        },
+      })
+    })
+
+    const postsPerPage = 2
+    const numberOfPages = Math.ceil(posts.length / postsPerPage)
+
+    Array.from({ length: numberOfPages }).forEach((_, index) => {
+      const isFirstPage = index === 0
+      const currentPage = index + 1
+
+      if (isFirstPage) return
+
+      createPage({
+        path: `/page/${currentPage}`,
+        component: postListTemplate,
+        context: {
+          limit: postsPerPage,
+          skip: index * postsPerPage,
+          currentPage,
+          numberOfPages,
         },
       })
     })
