@@ -19,8 +19,8 @@ const Sidebar = ({ author, image, sources, notes, tags, url, title }) => {
     <div>
       {author && <AuthorBio image={image} author={author} />}
       {tags && <TagsCard tags={tags} />}
-      {notes && <Notes notes={notes} />}
       {sources && <Sources sources={sources} />}
+      {notes && <Notes notes={notes} />}
       {tags && <Share url={url} title={title} />}
       {!tags && (
         <div>
@@ -44,6 +44,7 @@ const sidebarQuery = graphql`
           id
           frontmatter {
             title
+            subtitle
             image {
               childImageSharp {
                 fluid(maxWidth: 300) {

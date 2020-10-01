@@ -21,7 +21,12 @@ const PostCard = ({ postsData, randomNum }) => {
                 </Link>
                 <CardBody>
                   <CardTitle>
-                    <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                    <Link to={node.fields.slug}>
+                      <b>{node.frontmatter.title}</b>
+                      <br />
+                      <small>{node.frontmatter.subtitle}</small>
+                      <br />
+                    </Link>
                   </CardTitle>
                 </CardBody>
               </Card>
@@ -36,7 +41,12 @@ const PostCard = ({ postsData, randomNum }) => {
                 </Link>
                 <CardBody>
                   <CardTitle>
-                    <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                    <Link to={node.fields.slug}>
+                      <b>{node.frontmatter.title}</b>
+                      <br />
+                      <small>{node.frontmatter.subtitle}</small>
+                      <br />
+                    </Link>
                   </CardTitle>
                 </CardBody>
               </Card>

@@ -15,9 +15,11 @@ const SingePost = ({ data, pageContext }) => {
   const tagsList = data.markdownRemark.frontmatter.tags
   const postUrl = `https://daszwiare.pl/${pageContext.slug}`
   const postTitle = post.title
+  const postSubTitle = post.subtitle
   return (
     <Layout
       pageTitle={postTitle}
+      pageSubtitle={postSubTitle}
       postAuthor={author}
       imageAuthorFluid={data.file.childImageSharp.fluid}
       sources={sourceData}
@@ -48,6 +50,7 @@ export const postQuery = graphql`
       html
       frontmatter {
         title
+        subtitle
         author
         sources
         notes

@@ -1,95 +1,66 @@
 ---
-title: "Licówki"
-date: "2020-06-24"
+title: "Odcinek 63"
+subtitle: "w którym okazuje się, że głupota jest chrześcijańską cnotą i prowadzi do świętości."
+date: "2020-09-17"
 author: andrzej
 image: "../../images/andrzej.png"
 tags:
-  - licowki
-  - dental
+  - prawoslawie
+  - chrzescijanstwo
+  - rosja
+  - monastycyzm
+  - mistycyzm
+  - ludowe
+  - swieci
+  - cuda
+  - bliskiWschod
 sources:
-  - Kuc
-  - Kucownik | https://www.google.com/
+  - Svitlana Kobets, Foolishness in Christ- East vs. West | http://www.slavdom.com/index.php?id=21
+  - Holy Fools for Christ | https://web.archive.org/web/20080204220422/http://stnicholas-billings.org/Saints/HolyFools/holyfools.htm
+  - Lasser Justin M., ''Holy Fools'' w "The Encyclopedia of Eastern Orthodox Christianity"
 notes:
   - Ala ma kota
   - Kot ma ale
   - moj stary
 ---
 
-Licówki to uzupełnienie protetyczne pokrywające wargową lub policzkową powierzchnię naturalnych zębów. W ostatnim czasie stosuje się również „nakłado-licówki”, pokrywające powierzchnię żującą.
+Po przeczytaniu tytułu zapewne myślisz sobie, drogi czytelniku, coś w stylu: “kurła, nie przenoś mnie tu
+gimboateizmu11”. Uspokajam- to nie gimboateizm. Głupota o której mowa ma bowiem inne znaczenie. Bear with me. W prawosławiu istnieje specjalna kategoria ascetów zwanych “Głupcami Chrystusowymi” (grek. saloi, ros. iurodivye, pol.- jurodiwy). O ile “klasyczny” ascetyzm polega na odcięciu się od świata to jurodstwo celowo żyje w “świecie”. I, zgodnie z nazwą, zasadza się na robieniu głupot. Nie są to jednak zwykłe głupoty- są to głupoty dla idei, ad maiorem dei gloriam.
 
-Wskazania do stosowania licówek:
+Jako teologiczną podstawę jurodstwa podaje się zazwyczaj ten fragment pawłowego listu do Koryntian. Głupotą są tutaj boże zamysły, których ludzie nie rozumieją i dlatego biorą je za głupotę:
 
-- niewielkie defekty na powierzchni zdrowych zębów,
-- zmiana koloru, kształtu i w niewielkim stopniu ustawienia zębów
-- hipoplazja szkliwa (przy bardzo zaawansowanej hipoplazji wskazane jest wykonanie korony),
-- przebarwienia potetracyklinowe, pourazowe, fluoroza,
-- złamania zębów,
-- zamykanie diastem
-- niestetyczne wypełnienia.
+"Niechaj się nikt nie łudzi! Jeśli ktoś spośród was mniema, że jest mądry na tym świecie, niech się stanie głupim, by posiadł mądrość. Mądrość bowiem tego świata jest głupstwem u Boga."
 
-Nie we wszystkich przypadkach licówki mogą być zastosowane, wśród przeciwwskazań wymienia się:
+Cele jurodstwa są wielorakie. Jednym z nich jest poniżenie ascety. Raczej mało kto patrzy przychylnie na bełkoczącego, zarośniętego bezdomnego, prawda? A tak właśnie wyglądają jurodiwy, Jest to tłumaczone z jednej strony jako przezwyciężenie jednostkowej dumy, rozumianej tu jako “matka wszystkich grzechów” (patrz finał Adwokata Diabła). Z drugiej strony jurodstwo to także sposób na podkreślenie obecności Boga w każdym, nawet “najgorszym” człowieku i ważności jednostki. Bezdomy, szalony żebrak może być natchniony przez Boga i użyteczny w celu jaki Stwórca postawił przed stworzeniem.
 
-- złą higienę jamy ustnej (brak krwawienia dziąseł),
-- zniszczenie poddziąsłowe zęba filarowego,
-- obecność rozległych wypełnień (udowodniono, że jeśli granica preparacji - czyli granica łączenia licówki z zębem, przebiega w miejscu istniejącego wypełnienia kompozytowego, to czas użytkowania licówki może być krótszy),
-- przeciwwskazania względne: parafunkcje (np. obgryzanie paznokci), bruksizm (po szynoterapii i fizjoterapii możliwe jest założenie licówek + szyna nazębna na noc)
-- zgryz głęboki (czyli w uproszczeniu zbyt duże zachodzenie górnych zębów na dolne)
-- brak stabilności okluzyjnej (spowodane np. wadami ortodontycznymi),
-- nierealne oczekiwania pacjenta,
-- osoby poniżej 16 roku życia.
+Robienie pozornie szalonych lub głupich rzeczy ma także służyć wyrywaniu ludzi z ich przyzwyczajeń. Celem jest natchnienie obserwatora/ słuchacza aby zastanowił się, wyszedł z domyślnego stanu w którym jego zachowanie i myśli wynikają z bezmyślnego podążania znanymi sobie ścieżkami. Myślenie o sprawach które wydawały się oczywiste ma zaś pomóc wiernym znaleźć Prawdę (wielką literą!) czyli Boga. Co ciekawe- niekonwencjonalne zachowania dotyczą także spraw religijnych, co w mocno sformalizowanym i zrytualizowanym prawosławiu prowadziło czasem do podejrzeń jurodiwych o herezję.
 
-Obecnie licówki wykonuje się z ceramiki lub kompozytu, tymczasowe wykonuje się również z akrylu.
+Tradycja upatruje korzeni jurodstwa u starotestamentowych proroków, którzy działali według mądrości osiedli: “albo grubo, albo wcale”. Na przykład Izajasz miał jakoby wędrować przez trzy lata bez obuwia i odzienia po pustyni, zwiastując w ten sposób niewolę egipską. Ezechiel z kolei otrzymał od Boga polecenie jedzenia placka pieczonego publicznie na “nawozie ludzkim” i odprawienie dziwacznej, publicznej pokuty (miłosierny Bóg w końcu jednak zezwolił Ezechielowi piec placki na nawozie wołowym). Z kolei Ozeasz, na rozkaz boży, poślubił prostytutkę, która powiła dzieci będące owocem jej “kariery”. Przy okazi Bóg zabronił Ozeaszowi konsumpcji związku.
 
-Ceramika:
+Zdaniem uczonych (a przynajmniej części z nich) jest to dość naciągana interpretacja. Tradycja ma na ten temat inne zdanie. Kolejne, biblijne wzmianki które można zrozumieć jako mówiące o Głupcach pochodzą także z pism św. Pawła:
 
-- idealna estetyka,
-- bardzo trwałe (wg Friedmann’a: 93% założonych licówek funkcjonowało przez 15 lat)
-- jest biokompatybilna - dobrze tolerowana przez dziąsła,
-- jest mniej podatna na przebarwienia i adhezję płytki nazębnej niż kompozyt
-- ceramika jest bardzo twarda, przez co jest krucha
-- bardzo często nie da się naprawić uszkodzonej licówki lub jest to bardzo trudne
-- ceramika jest twardsza od szkliwa przez co może ścierać przeciwstawne zęby,
-- cena jest różna w zależności od rodzaju wykorzystywanego materiału i metody wykonania pracy, waha się od 1200zł do 2000zł
+"my głupi dla Chrystusa, wy mądrzy w Chrystusie, my niemocni, wy mocni; wy doznajecie szacunku, a my wzgardy. Aż do tej chwili łakniemy i cierpimy pragnienie, brak nam odzieży, jesteśmy policzkowani i skazani na tułaczkę, i utrudzeni pracą rąk własnych. Błogosławimy, gdy nam złorzeczą, znosimy, gdy nas prześladują; dobrym słowem odpowiadamy, gdy nas spotwarzają. Staliśmy się jakby śmieciem tego świata i odrazą dla wszystkich aż do tej chwili."
 
-Kompozyt:
+Co jest dość trafnym opisem ideału Głupca dla Chrystusa, które to określenie pada tam wprost. Przeciwstawienie “głupoty” zawierzenia Jezusowi filozofii odwołującej się do rozumu było motywem który czasem pojawia się u Ojców Kościoła. Oczywiście w ich mniemaniu to właśnie przedkładanie Rozumu nad Objawienie było głupotą, bo przecież Bóg wie najlepiej. To nazywanie siebie głupcem było więc czymś w rodzaju używania “słowa na n” przez Afroamerykanów w stosunku do siebie samych. Jan Chryzostom, ojca kościoła, pisał tak:
 
-- bardzo dobra estetyka,
-- jest elastyczny - ma większą wytrzymałość na zginanie, naprężenia, napięcia (wskazany u osób z bruksizmem)
-- są mniej inwazyjne - wymagają mniej szlifowania zębów albo w ogóle nie wymagają szlifowania (licówki non-prep), z tego względu polecane są u osób młodych
-- jest bardziej podatny na przebarwienia (wymagane regularne kontrole i ewentualne korekty, ponowne polerowanie)
-- trwałość wynosi 5-8 lat (aczkolwiek brałam udział w szkoleniu, na którym pani doktor mówiła, że prawidłowo wykonane prace z dobrego materiału, regularnie kontrolowane, wytrzymują 15 lat),
-- łatwe w naprawie
-- licówki kompozytowe są kilka razy tańsze od ceramicznych - ich cena w zależności od stosowanego materiału i gabinetu, waha się w granicach 300-800zł.
+"Kiedy Bóg coś objawi, trzeba to przyjąć z wiarą i nie dzielić włosa na czworo [...] Niech mnie nazywają [...] głupcem w Chrystusie a będę dumny z tego miana jak z korony zwycięzcy. Ponieważ dzielę to miano z Pawłem, który powiedział: ''Jesteśmy głupcami dla Chrystusa''."
 
-Trwałość licówki zależy od wielu czynników:
+Pierwszym kanonizowanym Głupcem by Symeon (VI wiek). Hagiografia podaje, że zaczynał on jako “zwykły” asceta, niejako ukazując jurodstwo jako wyższy lvl. Żyjąc na pustyni Symeon osiąga apatheię (“wolność od patologicznych rządz”). Zaraz potem Bóg poleca mu żyć wśród ludzi i nawracać. Natchniony uznaje, że najlepsze efekty osiągnie uchodząc za szaleńca. Wkracza do Emesy wlokąc ścierwo psa. Ludzie uznają go za wariata i częstują gradem kamieni. Symeon lekce sobie waży ich ataki i wkracza do kościoła. Po zapaleniu wotywnych świec, obrzuca zgromadzonych na liturgii wiernych orzechami, za co spotyka go srogi oklep od bogobojnej owczarni.
 
-- materiału z jakiego jest wykonana,
-- umiejętności lekarza wykonującego,
-- poprawności wykonania,
-- regularnej kontroli,
-- higieny jamy ustnej pacjenta (wymagana jest idealna higiena).
+Następuje seria zdarzeń która jednoznacznie ukazuje mieszkańcom, że mają do czynienia ze świrem. Dzieje się jednak coś dziwnego, bo rzeczony świr zaczyna dokonywać cudów, wygania demony i przewiduje przyszłość. Ukrywa się jednak z pobożnością aby zwalczyć pychę a jego świętość i religijne życie wychodzą na jaw dopiero po śmierci. Żywot świętego Symeona dobrze oddaje ideał Głupca Chrystusowego i wyznacza pewien kanon zachowań dla naśladowców. Oprócz dziwacznego zachowania i ukrywania się z pobożnością Symeon jest agresywny i głośny a nawet w otwarty sposób łamie zasady religijne (np. jedząc mięso w post).
 
-Licówki ceramiczne w systemie E-max - są najczęściej wybierane. System ten wykorzystuje ceramikę szklaną wzmacnianą dwukrzemianem litu (IPS Empress 2), charakteryzuje się wyższą wytrzymałością mechaniczną, trwałością i odpornością na uszkodzenia, idealną szczelnością, a także wyśmienitą estetyką. Standardowo grubość licówki wynosi 0.5-1mm. Wymagają one oszlifowania zębów (utrata nawet do 30% tkanek zęba), aby zrobić miejsce na ceramikę. Z tego względu są przeciwwskazane u osób młodych.
-W systemie tym ceramika może być przetwarzana w tradycyjnej technologii tłoczenia w laboratorium albo w technologii CAD/CAM (możliwość wykonania licówki na jednej wizycie na miejscu w gabinecie. Najpierw skanuje się uzębienie cyfrowym skanerem, następnie wykonywany jest komputerowy projekt, na podstawie którego z bloczku materiału frezarka wycina licówkę).
-Standardowe licówki są wskazane gdy wymagana jest korekta silnych przebarwień (niepoddających się wybielaniu), zmiana koloru, kształtu czy położenia (w przypadku zrotowanych zębów) zęba, gdy w zębach obecne są nieestetyczne wypełnienia (po odpowiedniej preparacji można je przykryć licówką).
-Czas wykonania to ok. 2h. Cena różni się pomiędzy gabinetami - 1400-1800zł.
+Mimo to zostaje kanonizowany przez kościół ortodoksyjny, a za nim podobni doń asceci- Izydora, Serapion, Besarion Cudotwórca, Tomasz czy Andrzej z Konstantynopola. Z czasem jednak hierarchia bizantyjska zaczyna patrzeć na Głupców z rosnącą podejrzliwością. Utrudnia im życie, nasyła władze, a duchowni gromią takie zachowania. Wg. badaczy do X wieku zjawisko Głupców praktycznie zamiera wśród bizantyjskich chrześcijan. Głupcy ogłoszeni świętymi są jednak nadal czczeni i, jako bliscy ludowi, cieszą się popularnością, a poświęcone im hagiografie są poczytne.
 
-Dzięki właściwościom ceramiki E-max można wykonywać ultra cienkie licówki - 0.2-0.3mm (potocznie zwane "chipsami"). Dzięki temu można je założyć na nieoszlifowane zęby (tzn. licówki non-prep) lub oszlifowane w minimalnym stopniu. Badania dowodzą, że im cieńsza licówka tym lepsze i trwalsze jest jej połączenie z zębem.
-Tym rodzajem licówek można korygować niewielkie przebarwienia (zmiana o 1 odcień uzębienia wymaga zastosowania warstwy grubości 0.2mm, Przy samej korekcie koloru, aby ograniczyć ilość zeszlifowanych tkanek, można przed założeniem licówki wybielić zęby, co pozwoli uzyskać jaśniejszy kolor przy cieńszej licówce) - są dedykowane szczególnie po leczeniu ortodontycznym, a także można zamykać diastemy lub dokonywać korekt niewielkich defektów kształtu czy koloru.
-Ich cena jest bardzo wysoka - 1700-2000zł.
+Prace te trafiają w końcu na Ruś Kijowską, która przyjęła chrzest z Konstantynopola. Tam Głupcy zyskują nowe życie. Literackie źródła świadczące o ich popularności pojawiają się w XIV wieku. Motyw trafia na podatny grunt, bo tradycja chrześcijańska splata się z ludowym Iwanem Durakiem (Głupkiem). W przekazach Iwan jest prostaczkiem, niezbyt lotnym, ale cieszącym się nadprzyrodzoną opieką. Koniec końców, to on okazuje się tym dobrym i uczciwym (motyw ten często przewija się rosyjskiej kulturze, także współcześnie, np. 25/17- Русский подорожник).
 
-Jeśli chodzi o licówki kompozytowe to możemy je wykonać metodą bezpośrednią (w ustach pacjenta: bonding - czyli warstwowe nanoszenia materiału kompozytowego na pow. zęba; flow injection technique - wykonuje się klucz silikonowy i wykorzystuje płynny kompozyt) lub pośrednią (przez technika w laboratorium lub w systemie CAD/CAM).
+Niektórzy z jurodiwych, mimo bycia dość szorstkimi w obyciu, cieszyli się dużym szacunkiem i sławą. Dobrze widać to w zapiskach XVI wiecznego angielskiego posła wizytującego dwór cara, Gilesa Fletchera.
 
-Bonding jest najtańszym (ok. 200-400zł) i najszybszym rozwiązaniem - cała procedura wykonywana jest na jednej wizycie. Nazwa wywodzi się od metody łączenia materiału kompozytowego z zębem. Połączenie te wykorzystuje siłę adhezji. Dzięki temu zabiegowi możliwe jest wyleczenie drobnych ubytków i odbudowa utraconych tkanek, maskowanie drobnych przebarwień, usunięcie diastemy czy korekta kształtu przednich zębów.
-Zabieg ten polega na warstwowym nakładaniu materiału kompozytowego (czyli standardowego materiały wykorzystywanego do wykonywania plomb). Nowoczesne kompozyty charakteryzują się wysoką estetyką (możliwość idealnego odwzorowania naturalnych cech uzębienia, takich jak: opalescencja, przezierność, obecność mamelonów itd.) i szeroką gamą barw, dzięki czemu można dobrać kolor idealnie pasujący do uzębienia lub pod wymagania pacjenta. Doskonale przylega do szkliwa, a zęby nie wymagają wcześniejszego szlifowania lub wymagają w minimalnym stopniu. Po wymodelowaniu licówki, całość się bardzo dokładnie poleruje (gładka powierzchni jest mniej podatna na adhezję płytki nazębnej, drobnoustrojów i przebarwienia).
+"[...] posiadają oni eremitów, których zwą świętymi mężami, a którzy z powodu swego stylu życia są jak gimonsofiści [nadzy mędrcy] choć nie dorównują ich wykształceniu. Mają oni w zwyczaju chodzić nago, w samej przepasce biodrowej, nieostrzyżeni. Wielu z nich nosi żelazne łańcuchy lub kołnierze. Chodzą tak nawet w środku bardzo mroźnej zimy. Są brani za proroków i świętych i z tego powodu mogą mówić co im się podoba, nawet o samym Najwyższym [...] jeśli któryś z nich zabierze coś ze sklepu bez płacenia, kupiec uważa, że spotkało go wielkie błogosławieństwo [...] Pewnego razu jeden z nich chodził nago po Moskwie i wykrzykiwał hasła przeciwko państwu i rządzącym [...] Kilka lat temu zmarł jeden z nich zwany Wasylem, który otwarcie krytykował cara za jego opresje i okrucieństwa wymierzone w lud [...]"
 
-Inną techniką wykonywania licówki bezpośrednio w ustach jest technika flow injection. Jest to technika mało inwazyjna, ponieważ najczęściej nie wymaga szlifowania zębów. Od pacjenta pobiera się wyciski i na ich podstawie odlewa modele. Na modelu technik tworzy wzór pracy, którą odwzorowuje za pomocą szyn silikonowych. Szyny te mogą obejmować kilka zębów, co umożliwia jednoczesną ich odbudowę. Dzięki tym szynom, lekarz może przenieść do jamy ustnej dokładnie taką samą pracę jaką wykonał technik w laboratorium. W szynach tych są otwory, przez który wprowadza się płynny kompozyt, polimeryzuje się go światłem, a następnie dokonuje się niezbędnych korekt i poleruje.
-Całą procedurę wykonuje się na 2 wizytach. Cena tak wykonanej licówki to 500-700zł.
+Wspomniany we fragmencie Wasyl to Wasyl Błogosławiony (tak, ten z Kremla) a car to Iwan Groźny, który krwawo rozprawiał się z krytykantami. Nawet on nie odważył się jednak ruszyć Wasyla. Popularni jurodiwy byli postrzegani jako święci i personifikacja prostego ludu. Nie znaczy to jednak, że każdy jurodiwy był uwielbianym “celebrytą”. Wybaczcie autorsko- amatorską antropologię, ale porównałbym ich do muzyków rockowych. Skandalistów jest (było) tam co niemiara, ale podziw udało się zaskarbić tylko niektórym. I podobnie jak z gwiazdami rocka, oprócz fanów są też hejterzy (to raczej hiphopowe określenie, ale co tam).
 
-Możliwe jest także wykonanie licówek z kompozytu w systemie CAD/CAM, ich cena jest wyższa - 600 - 700zł. Tak samo jak w przypadku ceramiki, cyfrowym skanerem skanuje się uzębienie, wykonuje się na komputerze projekt pracy (który uzgadnia się z pacjentem, przy okazji pacjent może zobaczyć planowany efekt końcowy) i frezarka wycina projekt z bloczku materiału. Wszystko można wykonać na 1 wizycie.
+Dla części ludzi sposób zachowania i komunikacji Głupców były nie do przyjęcia. Uważali ich nie za świętych dążących do unii z Bogiem, a za szalonych i szkodliwych. Szczególne kontrowersje wzbudzały takie akcje jak przebywanie w towarzystwie prostytutek czy wchodzenie w samej przepasce do cerkwi czy agresywne zachowanie. Zdarzały się przypadki pobić i samosądów na Głupcach (że już nie wspomnę o wyzwiskach i groźbach). Była to jednak część ich sposobu bycia- wszak jurodstwo polegało także na poniżeniu. Sława i uznanie były wypadkiem przy pracy, pogarda czy przemoc były normą.
 
-Licówki kompozytowe wykonywane są również przez techników w laboratorium. Ich cena również jest wyższa i oscyluje w granicy 600-900zł. Zarówno licówki wykonane w systemie CAD/CAM jak i w laboratorium, cechują się większą trwałością i wytrzymałością.
+Kolejną rzeczą która mogła wpakować Głupca w kłopoty był antyklerykalizm. Jako asceci i odrzucający konwenanse często krytykowali kler jako zbyt skupiony na rytuałach i hierarchiach. Ponadto zdarzało się, że ich poglądy religijne odbiegały od oficjalnych. Głupcy zdają się balansować na granicy ortodoksji i herezji oraz ludowych wierzeń i i instytucjonalnej religii. Zdaniem niektórych badaczy kanonizacje jurodiwych to próby zawłaszczenia ludowych świętych, mające na celu przybliżyć oficjalną religię do ludowej. Pojawiają się jednak inne głosy wskazujące, że Głupcy nie atakowali cerkwi jako takiej, a starali się eksponować duchową, praktyczną stronę religii w miejsce ceremonialno- dogmatycznej.
 
-Po wykonaniu licówek powinno się wykonać kontrolę po kilku dniach - czy licówka prawidłowo się zintegrowała, czy nie występuje stan zapalny dziąseł ani żadne inne nieprawidłowości. Raz na dwa lata powinno się profilaktycznie wykonać zdjęcie pantomograficzne.
-
-Pierwsze zdjęcie przedstawia licówki porcelanowe wykonane w systemie E-max
+Ruska cerkiew beatyfikowała około 40 osób będących Głupcami. Tradycja ta jest tam żywa przy czym w XIX wiek Rosja była świadkiem eksplozji popularności Głupców- zarówno na wsiach jak i w miastach. Literatura tego okresu zaświadcza o popularności jurodstwa. Postacie takie przewijają się u Tołstoja, Dostojewskiego, Uspienskiego czy Leskowa. Kres masowości tego zjawiska kładą komuniści i ich walka z religią. Jako się rzekło Głupcy nie zniknęli- w ruskim prawosławiu istnieją bowiem po dziś dzień.

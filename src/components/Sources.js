@@ -18,11 +18,11 @@ const Sources = ({ sources }) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                &#9658;&nbsp;{sourceArray[0].trim()}
+                &nbsp;&#9658;&nbsp;{sourceArray[0].trim()}
               </a>
             )
           } else {
-            return <p key={source.trim()}>&#9658;&nbsp;{source.trim()}</p>
+            return <p key={source.trim()}>&nbsp;&#9658;&nbsp;{source.trim()}</p>
           }
         })}
       </CardBody>

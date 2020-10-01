@@ -11,7 +11,7 @@ import {
 import Img from "gatsby-image"
 import { slugify } from "../util/utilityFunctions"
 
-const Post = ({ title, author, slug, date, body, fluid, tags }) => {
+const Post = ({ title, subtitle, author, slug, date, body, fluid, tags }) => {
   console.log(slug)
   return (
     <Card>
@@ -20,13 +20,13 @@ const Post = ({ title, author, slug, date, body, fluid, tags }) => {
       </Link>
       <CardBody>
         <CardTitle>
-          <Link to={slug}>{title}</Link>
+          <Link to={`/${slug}`}>
+            <b>{title},</b>
+            <br />
+            <small>{subtitle}</small>
+            <br />
+          </Link>
         </CardTitle>
-        <CardSubtitle>
-          <span className="text-info">{date}</span>
-          <span className="text-info">{author}</span>
-        </CardSubtitle>
-        <CardText>{body}</CardText>
         <ul className="post-tags">
           {tags.map(tag => (
             <li key={tag}>
@@ -38,6 +38,11 @@ const Post = ({ title, author, slug, date, body, fluid, tags }) => {
             </li>
           ))}
         </ul>
+        <CardSubtitle>
+          <span className="text-info">{date}</span>
+          <span className="text-info">{author}</span>
+        </CardSubtitle>
+        <CardText>{body}</CardText>
         <Link to={`/${slug}`} className="btn btn-outline-dark float-right">
           Czytaj
         </Link>
