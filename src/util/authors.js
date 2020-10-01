@@ -1,7 +1,7 @@
 const authors = [
   {
     name: "andrzej",
-    imageUrl: "andrzej.png",
+    imageUrl: "andrew.jpg",
     bio:
       "Religioznawca z zamiłowania, w chwilach wolnych od czytania i zastanawiania się nad fenomenem wiary religijnej pracuje jako QA. Pisze głównie o historii religii i wierzeń.",
     wykop: "https://www.wykop.pl/ludzie/niedoszly_andrzej/",

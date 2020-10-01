@@ -8,7 +8,7 @@ const TagsCard = ({ tags }) => {
     <Card>
       <CardBody className="text-center">
         <CardTitle className="text-uppercase mb-3">Tagi</CardTitle>
-        <ul className="post-tags" style={{ display: "inline" }}>
+        <ul className="post-tags">
           {tags.map(tag => (
             <li key={tag}>
               <Link to={`/tags/${slugify(tag)}`}>

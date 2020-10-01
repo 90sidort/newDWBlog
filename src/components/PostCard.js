@@ -13,7 +13,7 @@ const PostCard = ({ postsData, randomNum }) => {
         {randomNum !== undefined
           ? postsData.slice(randomNum, randomNum + 1).map(({ node }) => (
               <Card key={node.id}>
-                <Link to={node.fields.slug}>
+                <Link to={`/${node.fields.slug}`}>
                   <Img
                     className="card-image-top"
                     fluid={node.frontmatter.image.childImageSharp.fluid}
@@ -21,7 +21,7 @@ const PostCard = ({ postsData, randomNum }) => {
                 </Link>
                 <CardBody>
                   <CardTitle>
-                    <Link to={node.fields.slug}>
+                    <Link to={`/${node.fields.slug}`}>
                       <b>{node.frontmatter.title}</b>
                       <br />
                       <small>{node.frontmatter.subtitle}</small>
@@ -33,7 +33,7 @@ const PostCard = ({ postsData, randomNum }) => {
             ))
           : postsData.slice(0, 3).map(({ node }) => (
               <Card key={node.id}>
-                <Link to={node.fields.slug}>
+                <Link to={`/${node.fields.slug}`}>
                   <Img
                     className="card-image-top"
                     fluid={node.frontmatter.image.childImageSharp.fluid}
@@ -41,7 +41,7 @@ const PostCard = ({ postsData, randomNum }) => {
                 </Link>
                 <CardBody>
                   <CardTitle>
-                    <Link to={node.fields.slug}>
+                    <Link to={`/${node.fields.slug}`}>
                       <b>{node.frontmatter.title}</b>
                       <br />
                       <small>{node.frontmatter.subtitle}</small>
