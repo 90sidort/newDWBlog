@@ -42,7 +42,6 @@ const AboutPage = () => (
       kontakt na Wykopie. Jeśli okaże się, że nie mieliśmy racji albo zaszła
       pomyłka- niezwłocznie ją poprawimy i podamy informację w tekście.
     </p>
-    )
   </Layout>
 )
 

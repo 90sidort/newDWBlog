@@ -39,8 +39,9 @@ const SingePost = ({ data, pageContext }) => {
           <span className="text-info">{post.author}</span>
         </CardSubtitle>
         <a href={postOriginal} className="text-info">
-          Zobacz na wykopie
+          <small>Zobacz na wykopie</small>
         </a>
+        <br />
         <br />
         <div
           dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
