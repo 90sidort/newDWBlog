@@ -19,11 +19,7 @@ tags:
 sources:
   - Svitlana Kobets, Foolishness in Christ- East vs. West | http://www.slavdom.com/index.php?id=21
   - Holy Fools for Christ | https://web.archive.org/web/20080204220422/http://stnicholas-billings.org/Saints/HolyFools/holyfools.htm
-  - Lasser Justin M., ''Holy Fools'' w "The Encyclopedia of Eastern Orthodox Christianity"
-notes:
-  - Ala ma kota
-  - Kot ma ale
-  - moj stary
+  - Lasser Justin M., "Holy Fools" w "The Encyclopedia of Eastern Orthodox Christianity"
 ---
 
 Po przeczytaniu tytułu zapewne myślisz sobie, drogi czytelniku, coś w stylu: “kurła, nie przenoś mnie tu

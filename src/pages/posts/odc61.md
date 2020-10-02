@@ -15,7 +15,7 @@ tags:
   - polityka
   - konwersje
 sources:
-  - Plokhy Serhii, "The Religious Crisis", w "The Cossacks and Religion in Early Modern Ukraine"
+  - Plokhy Serhii, "The Religious Crisis" w "The Cossacks and Religion in Early Modern Ukraine"
 notes:
   - Próba reakcji na protestancką reformację
   - Proces rosnącej świadomości różnic między różnymi wyznaniami (konfesjami)

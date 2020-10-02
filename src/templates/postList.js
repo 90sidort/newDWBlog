@@ -14,6 +14,7 @@ const postList = ({ data, pageContext: { currentPage, numberOfPages } }) => {
           key={node.id}
           slug={node.fields.slug}
           title={node.frontmatter.title}
+          subtitle={node.frontmatter.subtitle}
           author={node.frontmatter.author}
           date={node.frontmatter.date}
           body={node.excerpt}
@@ -41,6 +42,7 @@ export const postListQuery = graphql`
           id
           frontmatter {
             title
+            subtitle
             date(formatString: "MM-DD-YYYY")
             author
             tags

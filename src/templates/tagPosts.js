@@ -7,7 +7,10 @@ const tagPosts = ({ data, pageContext: { tag } }) => {
   const { totalCount } = data.allMarkdownRemark
   const pageHeader = tag
   return (
-    <Layout pageTitle={pageHeader} pageSubtitle={`${totalCount} z tym tagiem.`}>
+    <Layout
+      pageTitle={`#${pageHeader}`}
+      pageSubtitle={`${totalCount} z tym tagiem.`}
+    >
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <Post
           key={node.id}

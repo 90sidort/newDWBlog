@@ -17,7 +17,7 @@ sources:
   - Wheel Magazine- Orthodox and White? | https://static1.squarespace.com/static/54d0df1ee4b036ef1e44b144/t/5d40a034c1dd0200013aee6b/1564516409084/Wheel17_Ch5_Leonova.pdf
   - Orthodox Christian Laity- Orthodoxy's Extremist Appeal | https://ocl.org/orthodoxys-extremist-appeal/
   - Berkley Center- American Conversions to Russian Orthodoxy Amid the Global Culture Wars | https://berkleycenter.georgetown.edu/responses/american-conversions-to-russian-orthodoxy-amid-the-global-culture-wars
-  - Souther Poverty Law Center- East of Eden | https://www.splcenter.org/fighting-hate/intelligence-report/2014/east-eden
+  - Southern Poverty Law Center- East of Eden | https://www.splcenter.org/fighting-hate/intelligence-report/2014/east-eden
   - Forbes, (Un)Holy Alliance- Vladimir Putin, The Russian Orthodox Church And Russian Exceptionalism | https://www.forbes.com/sites/paulcoyer/2015/05/21/unholy-alliance-vladimir-putin-and-the-russian-orthodox-church/#4010186027d5
 ---
 
