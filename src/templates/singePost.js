@@ -33,22 +33,40 @@ const SingePost = ({ data, pageContext }) => {
         className="card-image-top"
         fluid={post.image.childImageSharp.fluid}
       />
+      <div className="text-info text-center">
+        <span>
+          <small>{post.caption}</small>
+        </span>
+      </div>
       <CardBody>
         <CardSubtitle>
-          <span className="text-info">Opublikowany {post.date}</span> przez{" "}
-          <span className="text-info">{post.author}</span>
+          <div className="text-info text-center">
+            <span className="text-info">Opublikowany {post.date}</span> przez{" "}
+            <span className="text-info">{post.author}</span>
+          </div>
         </CardSubtitle>
-        <a href={postOriginal} className="text-info">
-          <small>Zobacz na wykopie</small>
-        </a>
-        <br />
-        <br />
+        <div className="text-info text-center">
+          <a
+            href={postOriginal}
+            className="text-info"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <small>Zobacz na wykopie</small>
+          </a>
+          <br />
+          <br />
+        </div>
         <div
           dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
           className="indented_paragraph"
         ></div>
       </CardBody>
-      <span onClick={() => window.scrollTo(0, 0)} role="presentation">
+      <span
+        onClick={() => window.scrollTo(0, 0)}
+        role="presentation"
+        style={{ cursor: "pointer" }}
+      >
         &uarr; Przewiń na górę
       </span>
     </Layout>
@@ -64,6 +82,7 @@ export const postQuery = graphql`
         title
         original
         subtitle
+        caption
         author
         sources
         notes
@@ -71,7 +90,7 @@ export const postQuery = graphql`
         tags
         image {
           childImageSharp {
-            fluid(maxWidth: 700) {
+            fluid(maxWidth: 700, maxHeight: 371) {
               ...GatsbyImageSharpFluid
             }
           }
@@ -80,7 +99,7 @@ export const postQuery = graphql`
     }
     file(relativePath: { eq: $imageUrl }) {
       childImageSharp {
-        fluid(maxWidth: 300) {
+        fluid(maxWidth: 300, maxHeight: 300) {
           ...GatsbyImageSharpFluid
         }
       }

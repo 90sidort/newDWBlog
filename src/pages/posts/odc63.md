@@ -4,7 +4,8 @@ subtitle: "w którym okazuje się, że głupota jest chrześcijańską cnotą i 
 original: "https://www.wykop.pl/wpis/52167155/dasz-wiare-odc-63-w-ktorym-okazuje-sie-ze-glupota-/"
 date: "2020-09-17"
 author: andrzej
-image: "../../images/andrew.jpg"
+caption: "Święta Ruś, obraz Nestorowa"
+image: "../../images/odcinki/odc63.jpg"
 tags:
   - prawoslawie
   - chrzescijanstwo
