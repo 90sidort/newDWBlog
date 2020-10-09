@@ -6,7 +6,7 @@ import SEO from "../components/SEO"
 import PaginationLinks from "../components/PaginationLinks"
 
 const IndexPage = () => {
-  const postsPerPage = 5
+  const postsPerPage = 7
   let numberofPages
   return (
     <Layout
@@ -47,7 +47,7 @@ const indexQuery = graphql`
   query {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 5
+      limit: 7
     ) {
       totalCount
       edges {

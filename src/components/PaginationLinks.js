@@ -7,7 +7,7 @@ const PaginationLinks = ({ currentPage, numberOfPages }) => {
   const prevPage = currentPage - 1 === 1 ? "/" : `/page/${currentPage - 1}`
   const nextPage = `/page/${currentPage + 1}`
   return (
-    <Pagination aria-label="Page navigation">
+    <Pagination aria-label="Page navigation" className="pagination-element">
       {isFirst ? (
         <PaginationItem disabled>
           <PaginationLink previous href="#" />
