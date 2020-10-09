@@ -8,7 +8,7 @@ const postList = ({ data, pageContext: { currentPage, numberOfPages } }) => {
   const posts = data.allMarkdownRemark.edges
 
   return (
-    <Layout pageTitle={`Page ${currentPage}`}>
+    <Layout pageTitle="Dasz wiarę?" pageSubtitle={`Strona ${currentPage}`}>
       {posts.map(({ node }) => (
         <Post
           key={node.id}

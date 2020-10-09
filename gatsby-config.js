@@ -37,6 +37,14 @@ module.exports = {
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint:
+          "https://neuropa.us2.list-manage.com/subscribe/post?u=4dea5a961cd7e0e95174eedd5&amp;id=6ba25bf6a7", // string; add your MC list endpoint here; see instructions below
+        timeout: 5000, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
