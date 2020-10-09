@@ -40,7 +40,7 @@ export const tagQuery = graphql`
           id
           frontmatter {
             title
-            date(formatString: "MM-DD-YYYY")
+            date(formatString: "DD-MM-YYYY")
             author
             subtitle
             tags

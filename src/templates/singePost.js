@@ -86,7 +86,7 @@ export const postQuery = graphql`
         author
         sources
         notes
-        date(formatString: "MM-DD-YYYY")
+        date(formatString: "DD-MM-YYYY")
         tags
         image {
           childImageSharp {

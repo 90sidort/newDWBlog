@@ -43,7 +43,7 @@ export const postListQuery = graphql`
           frontmatter {
             title
             subtitle
-            date(formatString: "MM-DD-YYYY")
+            date(formatString: "DD-MM-YYYY")
             author
             tags
             image {
