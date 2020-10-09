@@ -9,8 +9,9 @@ caption: "Wnętrze greckokatolickiej cerkwi."
 tags:
   - europa
   - katolicyzm
-  - protestantyzm
-  - reformacja
+  - ameryki
+  - prawoslawie
+  - konwersje
   - chrzescijanstwo
 sources:
   - OCA, Saint Alexis Toth | https://www.oca.org/saints/lives/2020/05/07/101300-repose-of-saint-alexis-toth-confessor-and-defender-of-orthodoxy
