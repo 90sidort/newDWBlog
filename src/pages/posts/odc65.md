@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 65"
 subtitle: "w którym rozwijamy filozofię i matematykę (prawdopodobnie) oraz zakładamy sektę (na pewno)."
-original: "https://www.wykop.pl/wpis/52541951/dasz-wiare-odc-64-w-ktorym-bijemy-sie-o-teologiczn/"
+original: "https://www.wykop.pl/wpis/53407059/dasz-wiare-odc-65-w-ktorym-rozwijamy-filozofie-i-m/"
 date: "2020-11-08"
 author: andrzej
 caption: "Ilustracja z 1913, wyobrażenie Pitagorasa nauczającego kobiety."
