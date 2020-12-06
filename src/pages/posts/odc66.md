@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 66"
 subtitle: "w którym znajdujemy w końcu czas, żeby usiąść na spokojnie ze śramaną."
-original: "https://www.wykop.pl/wpis/53407059/dasz-wiare-odc-65-w-ktorym-rozwijamy-filozofie-i-m/"
+original: "https://www.wykop.pl/wpis/54047171/dasz-wiare-odc-66-w-ktorym-znajdujemy-w-koncu-czas/"
 date: "2020-12-06"
 author: andrzej
 caption: "Buddyzm jest jedną z religii które wyłoniły się ze śramany."
