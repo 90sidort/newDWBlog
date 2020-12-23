@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 67"
 subtitle: "w którym jesteśmy Rzymianami, ale identyfikujemy się jako Persowie."
-original: "https://www.wykop.pl/wpis/54047171/dasz-wiare-odc-66-w-ktorym-znajdujemy-w-koncu-czas/"
+original: "https://www.wykop.pl/wpis/54427049/dasz-wiare-odc-67-w-ktorym-jestesmy-rzymianami-ale/"
 date: "2020-12-22"
 author: andrzej
 caption: "Zabiłem byka, cóż to dla mnie byk."

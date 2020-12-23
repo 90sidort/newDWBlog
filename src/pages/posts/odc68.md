@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 68"
 subtitle: "w którym głosimy protokomunizm i domagamy się seksu socjalnego."
-original: "https://www.wykop.pl/wpis/54047171/dasz-wiare-odc-66-w-ktorym-znajdujemy-w-koncu-czas/"
+original: "https://www.wykop.pl/wpis/54427083/dasz-wiare-odc-68-w-ktorym-glosimy-protokomunizm-i/"
 date: "2020-12-23"
 author: andrzej
 caption: "Szach Chosrow skutecznie tłumi rewolucję (proto)bolszewicką."
