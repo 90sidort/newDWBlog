@@ -17,6 +17,7 @@ const SingePost = ({ data, pageContext }) => {
   const postTitle = post.title
   const postSubTitle = post.subtitle
   const postOriginal = post.original
+  const postPodcast = post.podcast
   return (
     <Layout
       pageTitle={postTitle}
@@ -55,6 +56,17 @@ const SingePost = ({ data, pageContext }) => {
             <small>Zobacz na wykopie</small>
           </a>
           <br />
+          {postPodcast && (
+            <a
+              href={postPodcast}
+              className="text-info"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <small>Przesłuchaj podcast</small>
+            </a>
+          )}
+          <br />
           <br />
         </div>
         <div
@@ -86,6 +98,7 @@ export const postQuery = graphql`
         author
         sources
         notes
+        podcast
         date(formatString: "DD-MM-YYYY")
         tags
         image {
