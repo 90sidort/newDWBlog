@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 71"
 subtitle: "w którym zaczynamy poszukiwania starożytnych ateistów."
-original: "https://www.wykop.pl/wpis/55307111/dasz-wiare-odc-70-w-ktorym-okazuje-sie-ze-ortodoks/"
+original: "https://www.wykop.pl/wpis/56013085/odcinek-71-w-ktorym-zaczynamy-poszukiwania-starozy/"
 date: "2021-03-07"
 author: andrzej
 caption: "Diagoras Ateista pali Heraklesem w piecu."
