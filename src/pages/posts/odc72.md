@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 72"
 subtitle: "w którym zadajemy kłam tezie, że wiara jest dla niewykształconych."
-original: "https://www.wykop.pl/wpis/56013085/odcinek-71-w-ktorym-zaczynamy-poszukiwania-starozy/"
+original: "https://www.wykop.pl/wpis/56255815/wpis-na-blogu-z-lepszym-formatowaniem-i-zrodlami-d/"
 date: "2021-03-19"
 author: andrzej
 caption: "Ścięcie świętej Tatiany Rzymskiej, prawosławnej patronki uczniów."
