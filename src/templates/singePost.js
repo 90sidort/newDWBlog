@@ -13,7 +13,7 @@ const SingePost = ({ data, pageContext }) => {
   const sourceData = data.markdownRemark.frontmatter.sources
   const notesData = data.markdownRemark.frontmatter.notes
   const tagsList = data.markdownRemark.frontmatter.tags
-  const postUrl = `http://daszwiare.neuropa.pl/${pageContext.slug}`
+  const postUrl = `https://daszwiare.neuropa.pl/${pageContext.slug}`
   const postTitle = post.title
   const postSubTitle = post.subtitle
   const postOriginal = post.original
