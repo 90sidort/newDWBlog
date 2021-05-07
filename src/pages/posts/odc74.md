@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 74"
 subtitle: " w którym czcimy świętego Buddę."
-original: "https://www.wykop.pl/tag/daszwiare/"
+original: "https://www.wykop.pl/wpis/57368855/dasz-wiare-odc-74-w-ktorym-czcimy-swietego-budde-l/"
 date: "2021-05-07"
 author: andrzej
 caption: "Święty Jozafat, wyobrażenie z XII wieku."
