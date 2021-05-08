@@ -21,7 +21,7 @@ sources:
   - hasło "Barlaam and Josaphat" w Encyclopedia Iranica | https://www.iranicaonline.org/articles/barlaam-and-iosaph-persian-belawhar-o-budasaf-a-greek-christian-or-christianized-novel-of-buddhist-origins-which-througho
   - hasło "Barlaam and Josaphat" w Catholic Encyclopedia | https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Barlaam_and_Josaphat
 notes:
-  - Ta informacja nie jest prawdziwa, mój błąd. Jozafat i Barlaam zostali usunięci z Martyrologoim Rzymskiego po kilkusetlatach, gdy wyszło na jaw, że takie postacie nigdy nie istniały, a Jozafat to tak naprawdę Budda z legend.
+  - Ta informacja nie jest prawdziwa, mój błąd. Jozafat i Barlaam zostali usunięci z Martyrologium Rzymskiego po kilkuset latach, gdy wyszło na jaw, że takie postacie nigdy nie istniały, a Jozafat to tak naprawdę Budda z legend.
 ---
 
 Każdy zna Buddę, tak tego z wielkim “B” na początku. Ciężko nie znać prekursora jednej z największych tradycji religijno - filozoficznych. Tym bardziej, że akurat ta tradycja (czy raczej tradycje) cieszy się uznaniem i zainteresowaniem nawet wśród osób, którym daleko do religijnej wiary. Siddharta Gautama (bo tak się nazywał, budda to tytuł) był jednak celebrytą na długo przed nastaniem mody na zen czy Dalajlamę. Jego postać przeniknęła także do innych indyjskich religii. Bardzo możliwe, że już w starożytności (na pewno w średniowieczu) był czczony w tradycjach wedycznych jako wcielenie Wisznu. Osoba Buddy na dobre zapisała się w zbiorowej wyobraźni Indusów, niezależnie od religii. Proces ten powtórzył się w innych miejscach i Budda jest cenioną postacią w dalekowschodnich kulturach.
@@ -46,4 +46,4 @@ Pierwszym, który zauważył podobieństwo z historiami Buddy był wenecki skryb
 
 Zauważono, że w arabskiej wersji jest mowa o Buddasafie. De Blois opisał proces powolnej zamiany w arabskim z Buddasafa na Yudasafa. Ten z kolei przełożono na gruzińskiego Iodasafa, który w grece odwzorowano, korzystając z hebrajskiego, jako Ioasafa. Tłumacz na łacinę przełożył z kolei Iosafa na Jozafata. Wszystkie formy imienia, które tu podałem są zapisane fonetycznie. Nie jestem lingwistą i nie chciałem się bawić w szlaczki, których nie rozumiem ani ja, ani czytelnik. Odkrycia lingwistów i orientalistów nie uszły uwadze kręgów katolickich. Encyklopedia Katolicka przyznaje wprost, że to podanie o Barlaamie i Jozafacie to legenda oparta na buddyjskich opowieściach o Gautamie, ale martyrologium rzymskie cały czas wymienia ich jako świętych, więc ich kult nadal obowiązuje\* [patrz sekcja Przypisy - ta informacja okazała się być błędna].
 
-Internet jest pełen pytań czy można łączyć praktyki buddyjskie z byciem chrześcijaninem. Zazwyczaj odpowiedź brzmi nie. Ciekawe jednak jakie zdanie w temacie mieliby Święty Barlaam i Jozafat.
+Internet jest pełen pytań czy można łączyć praktyki buddyjskie z byciem chrześcijaninem. Zazwyczaj odpowiedź brzmi nie. Ciekawe jednak jakie zdanie w temacie mieliby święci Barlaam i Jozafat.
