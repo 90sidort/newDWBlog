@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 75"
 subtitle: "w którym wymyślamy transhumanizm inspirując się mnichami z tajgi."
-original: "https://www.wykop.pl/wpis/57368855/dasz-wiare-odc-74-w-ktorym-czcimy-swietego-budde-l/"
+original: "https://www.wykop.pl/wpis/58091523/dasz-wiare-odc-75-w-ktorym-wymyslamy-transhumanizm/"
 date: "2021-06-06"
 author: andrzej
 caption: "Jezus wywarzający bramy Hadesu."
