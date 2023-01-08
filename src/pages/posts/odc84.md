@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 84"
 subtitle: "w którym widzimy coś czego może nie być."
-original: "https://www.wykop.pl/wpis/63349689/dasz-wiare-odc-83-w-ktorym-sprawdzamy-manichejskos/"
+original: "https://www.wykop.pl/wpis/69909461/dasz-wiare-odc-84-w-ktorym-widzimy-cos-czego-moze-/"
 date: "2023-01-08"
 author: andrzej
 caption: "Fragment inskrypcji Kartira."
