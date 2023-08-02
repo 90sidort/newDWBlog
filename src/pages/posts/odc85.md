@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 85"
 subtitle: "w którym zostajemy ruskimi, panteistycznymi feministami z zielonoświątkowym akcentem."
-original: "https://www.wykop.pl/wpis/69909461/dasz-wiare-odc-84-w-ktorym-widzimy-cos-czego-moze-/"
+original: "https://wykop.pl/wpis/72244499/dasz-wiare-odc-85-w-ktorym-zostajemy-ruskimi-pante"
 date: "2023-08-02"
 author: andrzej
 caption: "Chryści w ekstatycznym uniesieniu."
