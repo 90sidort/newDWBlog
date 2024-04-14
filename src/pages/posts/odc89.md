@@ -1,7 +1,7 @@
 ---
 title: "Odcinek 89"
 subtitle: "w którym znajdujemy jeden prosty sposób na wyjście z przegrywu."
-original: "https://wykop.pl/wpis/74001191/dasz-wiare-odc-88-w-ktorym-jezdzimy-na-nartach-po-"
+original: "https://wykop.pl/wpis/75876297/dasz-wiare-odc-89-w-ktorym-znajdujemy-jeden-prosty"
 date: "2024-04-14"
 author: andrzej
 caption: "Wielki meczet w Kairuan, jednym z miast-garnizonów."
